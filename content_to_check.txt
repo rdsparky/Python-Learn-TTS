@@ -1,0 +1,2 @@
+Python documentation : https://docs.python.org/3.10/archives/python-3.10.9-docs-html.zip
+SimpliLearn : https://www.simplilearn.com/tutorials/python-tutorial
